@@ -1,0 +1,12 @@
+{
+  "name": "igor-vanilla",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
